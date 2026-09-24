@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="Thanks for stopping by. Always open to a good conversation about backends, models or data.">
+<style>.f{font:600 24px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#F1EDE4;text-anchor:middle}.s{font:400 15px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#A9B4C9;text-anchor:middle}</style>
+<rect width="1000" height="140" rx="18" fill="#14213D"/>
+<path d="M0,112 C160,92 320,132 500,112 S840,92 1000,112 V140 H0 Z" fill="#1C2C50">
+<animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,112 C160,92 320,132 500,112 S840,92 1000,112 V140 H0 Z;M0,112 C160,132 320,92 500,112 S840,132 1000,112 V140 H0 Z;M0,112 C160,92 320,132 500,112 S840,92 1000,112 V140 H0 Z"/></path>
+<text x="500" y="58" class="f">Thanks for stopping by</text>
+<text x="500" y="86" class="s">Always up for a good conversation about backends, models or data.</text>
+</svg>

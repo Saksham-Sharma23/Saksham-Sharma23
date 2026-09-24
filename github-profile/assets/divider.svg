@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 30" width="1000" height="30" role="presentation">
+<path id="w" d="M20,15 H980" stroke="#8D99AE" stroke-opacity="0.35" stroke-width="1.5" fill="none"/>
+<circle cx="20" cy="15" r="4" fill="#8D99AE" opacity="0.6"/><circle cx="500" cy="15" r="5" fill="none" stroke="#FCA311" stroke-width="1.5"/><circle cx="980" cy="15" r="4" fill="#2EC4B6"/>
+<circle r="4" fill="#FCA311"><animateMotion dur="5s" repeatCount="indefinite" path="M20,15 H980"/></circle>
+<circle r="3" fill="#2EC4B6"><animateMotion dur="5s" begin="2.5s" repeatCount="indefinite" path="M20,15 H980"/></circle>
+</svg>

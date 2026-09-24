@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 214" width="480" height="214" role="img" aria-label="Transformer from scratch: The full Attention Is All You Need architecture, built by hand and trained for English to French translation.">
+<style>.t{font:700 22px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#F1EDE4}.d{font:400 14.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#A9B4C9}.c{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#FCA311;text-anchor:middle}</style>
+<rect x="1" y="1" width="478" height="212" rx="16" fill="#14213D" stroke="#2B3A5E" stroke-width="1.5"/>
+<rect x="1" y="24" width="4" height="46" rx="2" fill="#FCA311"/>
+<text x="36" y="56" class="t">Transformer from scratch</text>
+<circle cx="444" cy="48" r="5" fill="#FCA311"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="444" cy="48" r="5" fill="none" stroke="#FCA311"><animate attributeName="r" values="5;13" dur="2.8s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></circle>
+<text x="36" y="92" class="d">The full Attention Is All You Need architecture,</text><text x="36" y="114" class="d">built by hand and trained for English to French</text><text x="36" y="136" class="d">translation.</text>
+<rect x="36" y="166" width="73" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="72.5" y="182" class="c">PyTorch</text><rect x="117" y="166" width="44" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="139.0" y="182" class="c">NLP</text>
+</svg>

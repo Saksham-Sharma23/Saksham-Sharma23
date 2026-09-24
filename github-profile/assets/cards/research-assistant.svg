@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 214" width="480" height="214" role="img" aria-label="Smart Research Assistant: Upload a PDF to get a summary, ask questions with cited answers, or get quizzed on it.">
+<style>.t{font:700 22px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#F1EDE4}.d{font:400 14.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#A9B4C9}.c{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#FCA311;text-anchor:middle}</style>
+<rect x="1" y="1" width="478" height="212" rx="16" fill="#14213D" stroke="#2B3A5E" stroke-width="1.5"/>
+<rect x="1" y="24" width="4" height="46" rx="2" fill="#FCA311"/>
+<text x="36" y="56" class="t">Smart Research Assistant</text>
+<circle cx="444" cy="48" r="5" fill="#FCA311"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="444" cy="48" r="5" fill="none" stroke="#FCA311"><animate attributeName="r" values="5;13" dur="2.8s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="36" y="92" class="d">Upload a PDF to get a summary, ask questions with</text><text x="36" y="114" class="d">cited answers, or get quizzed on it.</text>
+<rect x="36" y="166" width="73" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="72.5" y="182" class="c">FastAPI</text><rect x="117" y="166" width="59" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="146.5" y="182" class="c">FAISS</text><rect x="184" y="166" width="110" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="239.0" y="182" class="c">Transformers</text><rect x="302" y="166" width="88" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="346.0" y="182" class="c">Streamlit</text>
+</svg>

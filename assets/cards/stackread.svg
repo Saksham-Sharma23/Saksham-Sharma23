@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 214" width="480" height="214" role="img" aria-label="StackRead: A reader that groups related files into swipeable rows. Opens 20+ formats, and huge PDFs load instantly. Desktop and Android.">
+<style>.t{font:700 22px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#F1EDE4}.d{font:400 14.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#A9B4C9}.c{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2EC4B6;text-anchor:middle}</style>
+<rect x="1" y="1" width="478" height="212" rx="16" fill="#14213D" stroke="#2B3A5E" stroke-width="1.5"/>
+<rect x="1" y="24" width="4" height="46" rx="2" fill="#2EC4B6"/>
+<text x="36" y="56" class="t">StackRead</text>
+<circle cx="444" cy="48" r="5" fill="#2EC4B6"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle>
+<circle cx="444" cy="48" r="5" fill="none" stroke="#2EC4B6"><animate attributeName="r" values="5;13" dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle>
+<text x="36" y="92" class="d">A reader that groups related files into swipeable</text><text x="36" y="114" class="d">rows. Opens 20+ formats, and huge PDFs load</text><text x="36" y="136" class="d">instantly. Desktop and Android.</text>
+<rect x="36" y="166" width="81" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="76.5" y="182" class="c">Electron</text><rect x="125" y="166" width="110" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="180.0" y="182" class="c">React Native</text><rect x="243" y="166" width="96" height="24" rx="12" fill="#1C2C50" stroke="#34466E"/><text x="291.0" y="182" class="c">TypeScript</text>
+</svg>
